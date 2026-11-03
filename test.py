@@ -11,4 +11,15 @@ while n <= 20:
     print(n)
     total += n
     n += 2
+<<<<<<< HEAD
 print("Sum of even numbers:", total)
+=======
+print("Sum of even numbers:", total)
+
+#comment to reset changes
+print("This is a test file for code changes.")
+
+#comment to add changes to branch
+for i in range(1, 11):
+    print(f"Square of {i} is {i**2}")
+>>>>>>> feature/test-work
