@@ -2,3 +2,13 @@
 
 for n in range(18+1):
     print(n*2+1)
+
+# Added while loop to print even numbers from 2 to 20 and their total sum
+
+total = 0
+n = 2
+while n <= 20:
+    print(n)
+    total += n
+    n += 2
+print("Sum of even numbers:", total)
