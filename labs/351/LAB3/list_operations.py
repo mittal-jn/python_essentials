@@ -24,3 +24,4 @@ print("List after removing an element:", my_list)
 #reverse
 my_list.reverse()
 print("Reversed List:", my_list)
+
